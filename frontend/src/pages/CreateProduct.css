@@ -1,0 +1,41 @@
+.createProduct {
+  background-color: rgb(252, 240, 227);
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.createProduct form {
+  display: flex;
+  gap: 20px;
+  background: linear-gradient(to right, rgb(189, 132, 62), rgb(164, 83, 240));
+  padding: 30px;
+  border-radius: 10px;
+}
+.createProduct form img {
+  height: 350px;
+  width: 300px;
+}
+.createProduct form .form-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  gap: 30px;
+}
+
+.createProduct form .form-container input,
+textarea {
+  padding: 5px;
+  width: 300px;
+  border: 3px solid rgb(247, 192, 125);
+  border-radius: 10px;
+}
+
+.createProduct form .form-container button {
+  padding: 5px;
+  background-color: rgb(189, 132, 62);
+  border-radius: 5px;
+  color: white;
+  width: 300px;
+}

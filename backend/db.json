@@ -1,0 +1,186 @@
+{
+  "users": [
+    {
+      "id": "vdhghjgfgjugugj",
+      "username": "john-doe",
+      "email": "john@gmail.com",
+      "password": "123456",
+      "isAdmin": false
+    },
+    {
+      "id": "iBskuHmvsa2OQUfh5J-h0",
+      "username": "MahrukhSajjad",
+      "email": "mahrukh@example.com",
+      "password": "78910"
+    },
+    {
+      "id": "S7VkPTubHwQ2KahvieGF8",
+      "username": "admin",
+      "email": "adminmaster@gmail.com",
+      "password": "hfhgh",
+      "isAdmin": true
+    }
+  ],
+  "products": [
+    {
+      "id": "pT7K89ALsJ8qKZVGr3X1",
+      "image": "https://images.unsplash.com/photo-1586023492125-27b2c045efd7?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0",
+      "title": "Minimalist Coffee Table",
+      "price": "12000",
+      "description": "A sleek, wooden coffee table that complements any living space. Lightweight, durable, and perfect for morning coffee or evening chats.",
+      "category": "Living room"
+    },
+    {
+      "id": "dL5NFz6JqW23HuVbAq8C",
+      "image": "https://images.unsplash.com/photo-1615874959474-d609969a20ed?q=80&w=580&auto=format&fit=crop&ixlib=rb-4.1.0",
+      "title": "Modern Bookshelf",
+      "price": "15000",
+      "description": "Keep your books and decor organized with this stylish 5-tier modern bookshelf. Crafted from engineered wood with a matte finish.",
+      "category": "Living room"
+    },
+    {
+      "id": "nJu4QDfMb3aYcPoxzUiT",
+      "image": "https://images.unsplash.com/photo-1612372606404-0ab33e7187ee?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8Y2hhaXJ8ZW58MHx8MHx8fDA%3D",
+      "title": "Velvet Armchair",
+      "price": "18000",
+      "description": "Luxurious velvet armchair in emerald green. Cozy seating with plush cushions and sleek black legs for a classy lounge corner.",
+      "category": "Living room"
+    },
+    {
+      "id": "kR6xT2QWz6Nv8o4rFXdZ",
+      "image": "https://images.unsplash.com/photo-1647967527216-adea2f078e07?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Glass Coffee Table",
+      "price": "10000",
+      "description": "A round glass-top coffee table with metallic legs. Elegant and space-saving—ideal for small apartments or minimalist spaces.",
+      "category": "Living room"
+    },
+    {
+      "id": "qUzKi4TZ3RWbTyvM7PPL",
+      "image": "https://images.unsplash.com/photo-1540574163026-643ea20ade25?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8MzJ8fGZhYnJpYyUyMHNvZmF8ZW58MHx8MHx8fDA%3D",
+      "title": "Teal Fabric Sofa",
+      "price": "55000",
+      "description": "Brighten up your living room with this 3-seater teal sofa. Comfortable cushions and a sturdy wooden frame for everyday lounging.",
+      "category": "Living room"
+    },
+    {
+      "id": "uYT8RLVmAK3zeLgXPM0B",
+      "image": "https://images.unsplash.com/photo-1580897275296-87979517bd4c?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8Mnx8dHYlMjBzdGFuZHxlbnwwfHwwfHx8MA%3D%3D",
+      "title": "Scandinavian TV Stand",
+      "price": "22000",
+      "description": "Scandi-style TV stand with open shelves and hidden drawers. Perfect for decluttering your entertainment space with a clean look.",
+      "category": "Living room"
+    },
+    {
+      "id": "aG67zvMuVNcpsE4UyFh9",
+      "image": "https://images.unsplash.com/photo-1519947486511-46149fa0a254?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Recliner Chair",
+      "price": "25000",
+      "description": "Comfort meets function with this reclining armchair. Push-back mechanism and high-density foam for movie nights or naps.",
+      "category": "Living room"
+    },
+    {
+      "id": "zDF9n2tXvbkTpMz5rJ9A",
+      "image": "https://images.unsplash.com/photo-1641573851537-da4342deddec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8OHx8cnVzdGljJTIwY2VudGVyJTIwdGFibGV8ZW58MHx8MHx8fDA%3D",
+      "title": "Rustic Center Table",
+      "price": "14000",
+      "description": "Rustic wood center table with metal legs. Adds a cozy, vintage vibe to any lounge space. Great for books, trays, or snacks.",
+      "category": "Living room"
+    },
+    {
+      "id": "xFqv5XZ7NYgh3k2twBMC",
+      "image": "https://images.unsplash.com/photo-1680702699412-7df12ead8846?q=80&w=876&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Leather Ottoman",
+      "price": "9000",
+      "description": "Multipurpose ottoman made with premium leather. Can be used as a footrest, extra seat, or compact coffee table.",
+      "category": "Living room"
+    },
+    {
+      "id": "mNh29LAcRYoP2DQJvEZg",
+      "image": "https://images.unsplash.com/photo-1632258521940-b29d7d2ae9f5?q=80&w=1472&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Abstract Wall Art Set",
+      "price": "7000",
+      "description": "Set of 3 abstract canvas prints to elevate your walls. Bold colors and brush strokes to add character to any living room.",
+      "category": "Living room"
+    },
+    {
+      "id": "xLq3BYdD9vWp7ZJfEYtC",
+      "image": "https://images.unsplash.com/photo-1660491632751-3941540e383e?q=80&w=870&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Tufted Loveseat",
+      "price": "38000",
+      "description": "A compact tufted loveseat with soft cushions and a modern silhouette. Perfect for cozy corners or small living rooms.",
+      "category": "Living room"
+    },
+    {
+      "id": "gh79Jj2YPLm3bVfMZqk1",
+      "image": "https://images.unsplash.com/photo-1499933374294-4584851497cc?q=80&w=435&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Round Side Table",
+      "price": "6000",
+      "description": "Compact round side table made from walnut wood. Stylish and functional for placing lamps, plants, or coffee mugs.",
+      "category": "Living room"
+    },
+    {
+      "id": "bW6MkZNX5vTe7Lo3pFs9",
+      "image": "https://images.unsplash.com/photo-1584100936595-c0654b55a2e2?q=80&w=437&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Linen Floor Cushion",
+      "price": "4500",
+      "description": "Oversized floor cushion made of soft linen with a tufted design. Great for relaxed seating or a boho-chic vibe.",
+      "category": "Living room"
+    },
+    {
+      "id": "jFxKMUvRzv98eLDaCk3T",
+      "image": "https://images.unsplash.com/photo-1628843201283-2ca32147ad3e?q=80&w=1032&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Rustic Display Cabinet",
+      "price": "29000",
+      "description": "Showcase your decor with this rustic display cabinet featuring glass doors and ample shelving space.",
+      "category": "Living room"
+    },
+    {
+      "id": "mCpN5vZuPLOs3fE1qTn8",
+      "image": "https://images.unsplash.com/photo-1646107543597-e95b90ba4081?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Modern Floor Lamp",
+      "price": "7500",
+      "description": "Elegant arc floor lamp with a warm glow. Sleek and adjustable—perfect for reading corners or ambient lighting.",
+      "category": "Living room"
+    },
+    {
+      "id": "yPN9aMfE6TVxL3QrVkcB",
+      "image": "https://images.unsplash.com/photo-1588421874990-1fe162747f9b?q=80&w=387&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Patterned Area Rug",
+      "price": "10000",
+      "description": "Add warmth and texture with this handwoven area rug in neutral tones and geometric patterns.",
+      "category": "Living room"
+    },
+    {
+      "id": "uZqvR5LXkBrhTYc4nX2e",
+      "image": "https://images.unsplash.com/photo-1641573851537-da4342deddec?w=500&auto=format&fit=crop&q=60&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8bmVzdGVkJTIwdGFibGUlMjBzZXR8ZW58MHx8MHx8fDA%3D",
+      "title": "Nested Table Set",
+      "price": "8500",
+      "description": "A space-saving solution—this 2-piece nested table set fits into modern or traditional interiors effortlessly.",
+      "category": "Living room"
+    },
+    {
+      "id": "rHx78VnCqWPLZaK0FBoE",
+      "image": "https://images.unsplash.com/photo-1561997315-37b07e42290b?q=80&w=440&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Wall-Mounted Shelf",
+      "price": "4000",
+      "description": "Floating wall shelf with a minimal design. Ideal for books, plants, or decor accents in the living room.",
+      "category": "Living room"
+    },
+    {
+      "id": "gJVmBXNt9u4SaTWydR1K",
+      "image": "https://images.unsplash.com/photo-1484101403633-562f891dc89a?q=80&w=874&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Convertible Sofa Bed",
+      "price": "63000",
+      "description": "Stylish and versatile sofa that transforms into a bed. Great for guests or studio apartments with limited space.",
+      "category": "Living room"
+    },
+    {
+      "id": "KqLo9tNfVPjAyMXZ3eZh",
+      "image": "https://images.unsplash.com/photo-1570198561490-40196f287d94?q=80&w=774&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+      "title": "Curved Lounge Chair",
+      "price": "27000",
+      "description": "Chic and modern curved lounge chair with velvet upholstery and golden legs. Makes a bold statement in any living room.",
+      "category": "Living room"
+    }
+  ]
+}

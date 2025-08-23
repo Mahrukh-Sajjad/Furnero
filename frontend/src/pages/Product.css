@@ -1,0 +1,38 @@
+.banner {
+  background-color: rgb(196, 154, 250);
+  height: 60px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: rgba(101, 7, 129, 0.603);
+}
+/* .products {
+  margin-top: 20px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+  padding: 10px;
+  padding-left: 100px;
+} */
+.products img {
+  height: 250px;
+  width: 200px;
+}
+.product {
+  margin-bottom: 20px;
+}
+
+.product .info {
+  background-color: rgb(224, 174, 113);
+  width: 200px;
+  padding: 10px;
+}
+.product .info h3,
+p {
+  margin-bottom: 5px;
+}
+
+.product .info button {
+  padding: 5px;
+  background-color: rgb(235, 158, 65);
+  border-radius: 5px;
+}

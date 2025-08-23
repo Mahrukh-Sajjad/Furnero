@@ -1,0 +1,12 @@
+.footerBanner {
+  height: 200px;
+  padding: 30px;
+  background-color: rgb(247, 212, 169);
+  display: flex;
+  justify-content: space-between;
+}
+.footerBanner .claim {
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}

@@ -1,0 +1,22 @@
+.productDetails {
+  height: 100vh;
+  padding: 100px;
+  display: flex;
+  gap: 60px;
+}
+.image {
+  height: 400px;
+  width: 400px;
+  border-radius: 5px;
+}
+
+.productDetails .details {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+.productDetails .details button {
+  padding: 10px;
+  background-color: rgb(241, 173, 89);
+}

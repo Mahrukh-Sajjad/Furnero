@@ -1,0 +1,29 @@
+.container-Nav {
+  height: 80px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 30px;
+  /* background-color: rgb(211, 180, 240); */
+  background: linear-gradient(to right, rgb(217, 146, 231), rgb(157, 157, 233));
+}
+
+.logo {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+
+.logo h2 {
+  font-weight: bold;
+
+  color: rgb(158, 10, 158);
+
+  font-size: 30px;
+}
+
+.links .link {
+  margin-right: 30px;
+  text-decoration: none;
+  font-size: 15px;
+}
