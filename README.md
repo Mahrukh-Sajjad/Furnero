@@ -7,21 +7,21 @@ The project uses **Redux Toolkit** for state management and **JSON Server** as a
 
 ## 🚀 Features
 
-- 🔑 User authentication (Login, Signup, Logout) with Redux Toolkit  
-- 📦 Product listing on the Products page  
-- 📄 Product details view  
-- 🗑️ Admin-only access to delete products  
-- ⚡ State management with Redux Toolkit  
-- 🗄️ Mock backend with JSON Server  
+- 🔑 User authentication (Login, Signup, Logout) with Redux Toolkit
+- 📦 Product listing on the Products page
+- 📄 Product details view
+- 🗑️ Admin-only access to delete products
+- ⚡ State management with Redux Toolkit
+- 🗄️ Mock backend with JSON Server
 
 ---
 
 ## 🛠️ Tech Stack
 
-- **Frontend:** React (Vite), React Router  
-- **State Management:** Redux Toolkit  
-- **Backend:** JSON Server (mock API)  
-- **Styling:** CSS (or your preferred styling method)  
+- **Frontend:** React (Vite), React Router
+- **State Management:** Redux Toolkit
+- **Backend:** JSON Server (mock API)
+- **Styling:** CSS (or your preferred styling method)
 
 ---
 
@@ -44,3 +44,4 @@ npx json-server --watch db.json --port 5000
 
 # 5. In a new terminal, start the Vite development server
 npm run dev
+```
