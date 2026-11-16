@@ -5,8 +5,13 @@ import living from "../images/living.png";
 import dining from "../images/dining.png";
 import about1 from "../images/about1.png";
 import about2 from "../images/about2.png";
+import { useNavigate } from "react-router-dom";
 
 const Home = () => {
+  const navigate = useNavigate();
+  const buyNowHandler = () => {
+    navigate("/products");
+  };
   return (
     <div className="home-container">
       <div className="hero">
@@ -17,7 +22,7 @@ const Home = () => {
             Explore the latest trends in fashion and style. Find pieces that
             speak to your personality and elevate your look.
           </p>
-          <button>Buy Now</button>
+          <button onClick={buyNowHandler}>Buy Now</button>
         </div>
       </div>
       <div className="categories-section">
